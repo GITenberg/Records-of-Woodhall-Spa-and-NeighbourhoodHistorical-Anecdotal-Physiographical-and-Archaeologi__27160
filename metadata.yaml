@@ -1,0 +1,28 @@
+_repo: Records-of-Woodhall-Spa-and-NeighbourhoodHistorical-Anecdotal-Physiographical-and-Archaeologi__27160
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Walter, James Conway
+    alias: Walter, J. Conway
+    gutenberg_agent_id: '32500'
+    url: http://www.gutenberg.org/2009/agents/32500
+description: ''
+gutenberg_issued: '2008-11-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27160'
+  lccn: 03017901
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Woodhall Spa (England)'
+title: 'Records of Woodhall Spa and Neighbourhood
+
+  Historical, Anecdotal, Physiographical, and Archaeological, with Other Matter'
+url: http://www.gutenberg.org/ebooks/27160
